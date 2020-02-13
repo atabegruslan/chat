@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WebSockets</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+
+    <input type="text" id="text">
+
+    <button>Send</button>
+
+    <div id="log"></div>
+
+    <script>
+        var sock = new WebSocket("ws://localhost:5001");
+        var log = document.getElementById('log');
+
+        sock.onmessage = function (ev) {
+            console.log(ev);
+            log.innerHTML += ev.data+"<br>";
+        }
+
+        document.querySelector('button').onclick = function () {
+            var text = document.getElementById('text').value;
+            sock.send(text);
+        }
+    </script>
+
+</body>
+</html>
