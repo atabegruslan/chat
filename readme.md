@@ -1,3 +1,3 @@
-- PHP, Ratchet: https://github.com/atabegruslan/tree/master/chat/php/
-- Node, WebSocket: https://github.com/atabegruslan/tree/master/chat/node/WebSocket
-- Node, socket.io: https://github.com/atabegruslan/tree/master/chat/node/SocketIo
+- PHP, Ratchet: https://github.com/atabegruslan/chat/tree/master/php
+- Node, WebSocket: https://github.com/atabegruslan/chat/tree/master/node/WebSocket
+- Node, socket.io: https://github.com/atabegruslan/chat/tree/master/node/SocketIo
