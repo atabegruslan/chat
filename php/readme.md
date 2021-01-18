@@ -8,3 +8,11 @@
 1. Install Ratchet `composer install`
 2. Run server as daemon `php chat/php/server.php`
 3. Visit client `localhost/chat/php/`
+
+---
+
+# Another good tutorial set
+
+- https://www.youtube.com/playlist?list=PLCakfctNSHkErzd6KgnMrm6nY7hg5TUAm
+	- https://github.com/durgesh-sahani/chatroom-php-mysql-ratchet
+	- http://socketo.me/
