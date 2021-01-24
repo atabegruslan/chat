@@ -11,8 +11,9 @@
 
 ---
 
-# Another good tutorial set
+# Other good tutorials
 
 - https://www.youtube.com/playlist?list=PLCakfctNSHkErzd6KgnMrm6nY7hg5TUAm
 	- https://github.com/durgesh-sahani/chatroom-php-mysql-ratchet
 	- http://socketo.me/
+- https://www.youtube.com/playlist?list=PLxl69kCRkiI2-dfy1dLwbXyn8MaZ8oRac
