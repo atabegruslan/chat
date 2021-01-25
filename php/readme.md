@@ -17,3 +17,5 @@
 	- https://github.com/durgesh-sahani/chatroom-php-mysql-ratchet
 	- http://socketo.me/
 - https://www.youtube.com/playlist?list=PLxl69kCRkiI2-dfy1dLwbXyn8MaZ8oRac
+
+- https://code.tutsplus.com/tutorials/how-to-create-a-simple-web-based-chat-application--net-5931
