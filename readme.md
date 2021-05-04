@@ -12,13 +12,15 @@
 
 - https://www.youtube.com/watch?v=6i0WnBRgUM0&t=590s
 
-![]()
+![](https://raw.githubusercontent.com/atabegruslan/chat/master/MQ.png)
 
 - https://www.youtube.com/watch?v=5-Rq4-PZlew
 - https://www.youtube.com/watch?v=sfQwMu0SCT8
 - https://www.youtube.com/watch?v=oUJbuFMyBDk
+- https://en.wikipedia.org/wiki/Message_queue
 
 ## Rabbit MQ
 
 - Intro: https://www.youtube.com/watch?v=deG25y_r6OY
 - Install: https://www.youtube.com/watch?v=oRIF1xKEI0I
+- https://www.rabbitmq.com/
