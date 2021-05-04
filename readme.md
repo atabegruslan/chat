@@ -10,7 +10,9 @@
 
 # Message Queue
 
-- https://www.youtube.com/watch?v=6i0WnBRgUM0&t=590s
+- https://www.youtube.com/watch?v=6i0WnBRgUM0
+
+- https://www.youtube.com/watch?v=iJLL-KPqBpM
 
 ![](https://raw.githubusercontent.com/atabegruslan/chat/master/MQ.png)
 
@@ -24,3 +26,7 @@
 - Intro: https://www.youtube.com/watch?v=deG25y_r6OY
 - Install: https://www.youtube.com/watch?v=oRIF1xKEI0I
 - https://www.rabbitmq.com/
+
+
+- https://www.youtube.com/watch?v=hfUIWe1tK8E
+- https://www.youtube.com/watch?v=GMmRtSFQ5Z0
