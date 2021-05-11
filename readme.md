@@ -23,11 +23,15 @@
 
 ## Rabbit MQ
 
-- Intro: https://www.youtube.com/watch?v=deG25y_r6OY
-- Install: 
-	- https://dyclassroom.com/howto-mac/how-to-install-rabbitmq-on-mac-using-homebrew
-	- https://www.youtube.com/watch?v=oRIF1xKEI0I
-	- https://www.rabbitmq.com/
+### Intro
+
+- https://www.youtube.com/watch?v=deG25y_r6OY
+
+### Install
+
+- https://dyclassroom.com/howto-mac/how-to-install-rabbitmq-on-mac-using-homebrew
+- https://www.youtube.com/watch?v=oRIF1xKEI0I
+- https://www.rabbitmq.com/
 
 ```
 brew install rabbitmq
@@ -40,13 +44,16 @@ Credentials: guest/guest
 
 "Cntr + C" to stop.
 
-- Usage
-	- https://www.sitepoint.com/use-rabbitmq-php/
-		- https://www.binpress.com/getting-started-rabbitmq-php/
-	- https://www.rabbitmq.com/tutorials/tutorial-one-php.html
+### Usage
+
+- https://www.sitepoint.com/use-rabbitmq-php/
+	- https://www.binpress.com/getting-started-rabbitmq-php/
+- https://www.rabbitmq.com/tutorials/tutorial-one-php.html
 
 1. `composer require videlalvaro/php-amqplib`
 2. `php receive.php` 
+
+### Other tutorials
 
 - https://www.youtube.com/watch?v=hfUIWe1tK8E
 - https://www.youtube.com/watch?v=GMmRtSFQ5Z0
