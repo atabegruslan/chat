@@ -1,5 +1,5 @@
-php/vendor/
-php/composer.lock
+*/vendor/
+*/composer.lock
 node/WebSocket/server/node_modules/
 node/WebSocket/server/package-lock.json
 node/SocketIo/node_modules/
