@@ -1,6 +1,7 @@
 # Plain
 
 - PHP, Ratchet: https://github.com/atabegruslan/chat/tree/master/php
+- PHP, AJAX: https://github.com/atabegruslan/chat/blob/master/another_php_ajax_chat_app_tutorial.txt
 - Node, WebSocket: https://github.com/atabegruslan/chat/tree/master/node/WebSocket
 - Node, socket.io: https://github.com/atabegruslan/chat/tree/master/node/SocketIo
 
