@@ -4,6 +4,7 @@
 - PHP, AJAX: https://github.com/atabegruslan/chat/blob/master/another_php_ajax_chat_app_tutorial.txt
 - Node, WebSocket: https://github.com/atabegruslan/chat/tree/master/node/WebSocket
 - Node, socket.io: https://github.com/atabegruslan/chat/tree/master/node/SocketIo
+- Express, React, socket.io: https://www.freecodecamp.org/news/build-a-realtime-chat-app-with-react-express-socketio-and-harperdb/
 - Java: https://github.com/Ruslan-Aliyev/Java_InstantMessenger
 
 # Laravel Websockets
